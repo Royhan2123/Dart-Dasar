@@ -31,4 +31,6 @@ Saya tinggal di medan
 dan saya mahasiswa universitas budi dharma 
   ''';
   print(namas);
+
+
 }

@@ -32,6 +32,4 @@ void main(){
     }
     stdout.write("\n");
   }
-
-
 }

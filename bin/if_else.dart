@@ -1,3 +1,5 @@
+import 'dart:io';
+
 void main(){
   int nilaiuas = 75;
   int nilaihadir = 80;
